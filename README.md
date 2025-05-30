@@ -120,3 +120,13 @@ Custom logic to simulate earning-based loan repayment
 Internal dashboard to manage loan approvals, user tasks, and repayment tracking
 
 
+![Admin-Dashboard](./images/Admin%20Dashboard.png)
+![Admin-Panel](./images/Admin%20panel.png)
+![ApplyForLoan](./images/ApplyForLoan.png)
+![loanseeker-dashboard](./images/loanseeker%20dashboard.png)
+![Login-page](./images/Login%20page.png)
+![payment-option](./images/payment%20option.png)
+![post-a-task](./images/post%20a%20task.png)
+![Signup-page](./images/Signup%20page.png)
+![user-dashboard1](./images/user%20dashboard1.png)
+
